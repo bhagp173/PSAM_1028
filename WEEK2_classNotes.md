@@ -70,3 +70,26 @@ var theirAge = 20
 undefined
 theirAge * secondsInAYear
 630720000
+
+
+```
+## AND THEN..
+
+```ruby
+
+var isAlive = true
+undefined
+var isDead = true
+undefined
+var redEvilEyes = false
+undefined
+var ableToSpeak = true 
+undefined
+isAlive
+true
+isAlive = false
+false
+isAlive
+false
+var isAlive = true
+undefined
