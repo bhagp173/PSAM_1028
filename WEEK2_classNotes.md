@@ -1,5 +1,7 @@
 ## "MY CODE SNIPPET"
-"This is my code snippet"
+
+```rudy
+
 var firstName = "Priyanka" 
 
 undefined
@@ -22,7 +24,12 @@ undefined
 monogram
 "Priyankab"
   
+  ```
+  
   ## "AND THEN..."
+  
+  ```ruby
+  
   var secondsInAMinute = 60
 undefined
 var minutesInAnHour = 60
