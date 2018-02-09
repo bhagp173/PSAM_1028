@@ -30,3 +30,55 @@ monogram
 var monogram = firstLetterOfFirstName.slice(0.1)
 undefined
 var monogram = firstLetterOfFirstName.slice(0.1)
+
+```
+
+## Part 2
+
+```ruby
+
+var firstName = "Black"
+undefined
+var middleName = "Grey"
+undefined
+var lastName = "White"
+undefined
+var fullname = firstName + lastName + middleName
+undefined
+fullname
+"BlackWhiteGrey"
+var fullname = firstName + middleName + lastName
+undefined
+fullname
+"BlackGreyWhite"
+
+```
+## Part 3
+
+``` ruby
+var firstWord = Yves
+VM216:1 Uncaught ReferenceError: Yves is not defined
+    at <anonymous>:1:17
+(anonymous) @ VM216:1
+var firstWord = "Yves"
+undefined
+var secondWord = "Saint"
+undefined
+var thirdWord = "Laurent"
+undefined
+var fullWord = firstWord + secondWord + thirdWord 
+undefined
+fullWord
+"YvesSaintLaurent"
+var firstLetterOffirstWord = "Y"
+undefined
+var firstLetterOfsecondWord = "S"
+undefined
+var firstLetterOfthirdWord = "L"
+undefined
+var monogram = firstLetterOffirstWord + firstLetterOfsecondWord + firstLetterOfthirdWord
+undefined
+monogram
+"YSL"
+
+```
