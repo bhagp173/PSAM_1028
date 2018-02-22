@@ -10,7 +10,7 @@
 
 <script type="text/javascript">
 
-var words = ["Rottweiler", "Retriever", "Pug", "Beagle", "Bulldog", "Husky", "Pomeranian", "GreatDane"]
+var words = ["rottweiler", "retriever", "pug", "beagle", "bulldog", "husky", "pomeranian", "greatDane"]
 var word = words[Math.floor(Math.random() * words.length)]
 
 console.log("Random word is: " + word)
